@@ -22,5 +22,7 @@ The synthetic fraud data used in this project can be downloaded from the link be
 
 > Click the **Raw** button on GitHub to download the CSV file directly.
 
+### Data cleaning
+- Handle missing values
 
 
