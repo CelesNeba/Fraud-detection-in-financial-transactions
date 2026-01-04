@@ -8,7 +8,7 @@ Financial institutions face significant losses due to fraudulent transactions, w
 Build a machine learning model to identify fraudulent transactions from a dataset, and visualize the results in a Power BI dashboard.
 
 ### Tools 
-- Excel:  For quickly opening the CSV file and getting a sense of the data
+- Excel:  For quickly opening  the CSV file and getting a sense of the data
   
 - Jupyter Notebook: For interactive coding and documentation.
   
