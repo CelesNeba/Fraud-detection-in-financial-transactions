@@ -15,3 +15,12 @@ Build a machine learning model to identify fraudulent transactions from a datase
 - Power BI: For creating the interactive dashboard.
 
 
+## Dataset
+
+The synthetic fraud data used in this project can be downloaded from the link below:  
+📄 **[Download synthetic_fraud_data.csv](https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main/synthetic_fraud_data.csv)**
+
+> Click the **Raw** button on GitHub to download the CSV file directly.
+
+
+
