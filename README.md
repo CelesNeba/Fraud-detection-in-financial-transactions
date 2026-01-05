@@ -55,6 +55,9 @@ https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main
 
 - Goal: Get a summary of the numerical features in the dataset.
 
+![](https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main/Descriptive%20Statistics%20screenshot.PNG)
+
+
 2. Class distribution analysis:
 
 - Goal: Understand the imbalance between the two classes (fraudulent and non-fraudulent transactions).
