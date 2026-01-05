@@ -44,7 +44,8 @@ https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main
 
 - Remove duplicate rows
 
-- Data standardization
+![](https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main/Removing%20duplicate%20rows%20screenshot.PNG)
+
 
 
 
