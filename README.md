@@ -107,6 +107,9 @@ https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main
 
 - Goal: Use the trained model to make predictions on the test data.
 
+![](https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main/Model%20prediction%20screenshot.PNG)
+
+
 4. Model evaluation
 
 - Goal: Assess the performance of the model on the test data.
