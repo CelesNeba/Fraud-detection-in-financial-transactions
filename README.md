@@ -35,6 +35,9 @@ The synthetic fraud data used in this project can be downloaded from the link be
 
 - Data standardization
 
+![](https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main/Data%20standardization%20screenshot.PNG)
+
+
 - Handle outliers
 
 - Remove duplicate rows
