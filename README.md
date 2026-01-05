@@ -114,6 +114,9 @@ https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main
 
 - Goal: Assess the performance of the model on the test data.
 
+![](https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main/Model%20Evaluation%20screenshot1.PNG)
+
+
 
 ### Outcome from the model.
 
