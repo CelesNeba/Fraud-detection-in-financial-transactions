@@ -118,6 +118,11 @@ https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main
 
 
 
+![](https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main/Model%20eveluation%20screenshot2.PNG)
+
+
+
+
 ### Outcome from the model.
 
 The fraud detection model, while showing 98% accuracy, fails to identify any fraudulent transactions, indicated by 0% precision and recall for the fraudulent class and a near-random AUC-ROC score; therefore, the model is currently ineffective and requires further investigation into data preprocessing, feature selection, model selection, and hyperparameter tuning to improve its fraud detection capability.
