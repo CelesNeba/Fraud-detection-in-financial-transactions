@@ -69,6 +69,9 @@ https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main
 
 - Goal: Identify relationships between features.
 
+![](https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main/Correlation%20analysis.PNG)
+
+
 4. Data splitting
 
 - Goal: Divide the data into training and testing sets.
