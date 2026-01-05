@@ -62,6 +62,9 @@ https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main
 
 - Goal: Understand the imbalance between the two classes (fraudulent and non-fraudulent transactions).
 
+![](https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main/class%20distribution%20analysis%20screenshot.PNG)
+
+
 3. Correlation analysis
 
 - Goal: Identify relationships between features.
