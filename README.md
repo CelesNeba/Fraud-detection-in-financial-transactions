@@ -76,6 +76,9 @@ https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main
 
 - Goal: Divide the data into training and testing sets.
 
+![](https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main/Data%20Splitting%20screenshot.PNG)
+
+
 5. Handle class imbalance (SMOTE)
 
 - Goal: Address the class imbalance in the training data.
