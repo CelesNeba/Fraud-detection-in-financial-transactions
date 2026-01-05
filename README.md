@@ -25,4 +25,75 @@ The synthetic fraud data used in this project can be downloaded from the link be
 ### Data cleaning
 - Handle missing values
 
+- Correct data types
+
+- Data standardization
+
+- Handle outliers
+
+- Remove duplicate rows
+
+- Data standardization
+
+
+
+### Data exploration and preprocessing
+
+1. Descriptive statistics:
+
+- Goal: Get a summary of the numerical features in the dataset.
+
+2. Class distribution analysis:
+
+- Goal: Understand the imbalance between the two classes (fraudulent and non-fraudulent transactions).
+
+3. Correlation analysis
+
+- Goal: Identify relationships between features.
+
+4. Data splitting
+
+- Goal: Divide the data into training and testing sets.
+
+5. Handle class imbalance (SMOTE)
+
+- Goal: Address the class imbalance in the training data.
+
+
+
+
+### Model training and evaluation
+
+1. Model selection
+
+- Goal: Choose an appropriate machine learning model for fraud detection.
+
+2. Model training
+
+- Goal: Train the selected model on the resampled training data (the data after applying SMOTE).
+
+3. Model prediction
+
+- Goal: Use the trained model to make predictions on the test data.
+
+4. Model evaluation
+
+- Goal: Assess the performance of the model on the test data.
+
+
+### Outcome from the model.
+
+The fraud detection model, while showing 98% accuracy, fails to identify any fraudulent transactions, indicated by 0% precision and recall for the fraudulent class and a near-random AUC-ROC score; therefore, the model is currently ineffective and requires further investigation into data preprocessing, feature selection, model selection, and hyperparameter tuning to improve its fraud detection capability.
+
+
+
+## Power BI dashboard visualization.
+
+
+
+
+
+
+
+   
 
