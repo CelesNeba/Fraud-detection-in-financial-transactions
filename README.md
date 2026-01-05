@@ -100,6 +100,9 @@ https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main
 
 - Goal: Train the selected model on the resampled training data (the data after applying SMOTE).
 
+![](https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main/Model%20trainning%20screenshot.PNG)
+
+
 3. Model prediction
 
 - Goal: Use the trained model to make predictions on the test data.
