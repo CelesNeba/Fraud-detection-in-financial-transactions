@@ -25,6 +25,9 @@ The synthetic fraud data used in this project can be downloaded from the link be
 ### Data cleaning
 - Handle missing values
 
+![](https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main/Fraud_data_missing_value_screenshot.PNG)
+
+
 - Correct data types
 
 - Data standardization
