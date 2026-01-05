@@ -84,6 +84,10 @@ https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main
 - Goal: Address the class imbalance in the training data.
 
 
+![](https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main/Handle%20class%20imbalance%20screenshot.PNG)
+
+
+
 
 
 ### Model training and evaluation
