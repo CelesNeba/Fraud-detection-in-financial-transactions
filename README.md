@@ -30,6 +30,9 @@ The synthetic fraud data used in this project can be downloaded from the link be
 
 - Correct data types
 
+![](https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main/correct%20data%20types%20screenshot.PNG)
+
+
 - Data standardization
 
 - Handle outliers
