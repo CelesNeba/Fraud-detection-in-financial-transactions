@@ -136,7 +136,7 @@ The fraud detection model, while showing 98% accuracy, fails to identify any fra
 
 This screenshot shows the **Fraud Detection Dashboard** for analyzing financial transactions, designed to provide a comprehensive overview of both the dataset and the model performance in detecting fraud.
 
-[![Fraud Detection Dashboard](https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main/Frau%20detection%20dashboard%20screenshot.PNG)](https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main/Frau%20detection%20dashboard%20screenshot.PNG)
+[![Fraud Detection Dashboard](https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main/fraud%20detection%20dashboard1.PNG)](https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main/fraud%20detection%20dashboard1.PNG)
 
 ### 🔍 Dashboard Components
 
@@ -158,8 +158,4 @@ This dashboard allows analysts and stakeholders to:
 
 > The combination of summary cards, bar charts, and the confusion matrix provides both **high-level insights** and **detailed analysis**, making it easier to interpret and improve the fraud detection process.
 
-
-
-
-   
 
