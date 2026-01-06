@@ -133,6 +133,32 @@ The fraud detection model, while showing 98% accuracy, fails to identify any fra
 
 
 
+## 📊 Fraud Detection Dashboard
+
+This screenshot shows the **Fraud Detection Dashboard** for analyzing financial transactions, designed to provide a comprehensive overview of both the dataset and the model performance in detecting fraud.
+
+### 🔍 Dashboard Components
+
+1. **Total Transactions Card** – Displays the total number of transactions in the dataset.  
+2. **Total Fraudulent Transactions Card** – Shows the total number of transactions labeled as fraudulent (Class = 1).  
+3. **Fraud Rate Card** – Calculates and displays the percentage of transactions that are fraudulent.  
+4. **Total Fraudulent Transactions per Class Bar Chart** – Compares the number of transactions for each class (0 = non-fraud, 1 = fraud), highlighting the class imbalance.  
+5. **Model Performance Matrix (Confusion Matrix)** – Visualizes how well the fraud detection model performs by showing True Positives, True Negatives, False Positives, and False Negatives.  
+6. **Distribution of Fraud Amount Bar Chart** – Displays the distribution of transaction amounts for fraudulent transactions using bins, helping identify typical fraud amounts and outliers.
+
+### 🎯 Purpose
+
+This dashboard allows analysts and stakeholders to:  
+
+- Quickly understand the size and balance of the dataset  
+- Identify patterns in fraudulent transaction amounts  
+- Evaluate the performance of the fraud detection model  
+- Spot areas where the model may fail, such as undetected fraud  
+
+> The combination of summary cards, bar charts, and the confusion matrix provides both **high-level insights** and **detailed analysis**, making it easier to interpret and improve the fraud detection process.
+
+
+
 
 
 
