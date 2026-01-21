@@ -79,7 +79,7 @@ notebooks/fraud_detection_notebook.ipynb
 3️⃣ Run all cells sequentially
 
 
-📁 Project Structure
+## 📁 Project structure
 fraud-detection-project/
 
 ├─ notebooks/      # Jupyter notebooks
@@ -91,7 +91,7 @@ fraud-detection-project/
 └─ .gitignore
 
 
-🧠 Key  outcomes
+### 🧠 Key  outcomes
 
 * Handling imbalanced datasets correctly
 
