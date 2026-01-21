@@ -81,9 +81,13 @@ notebooks/fraud_detection_notebook.ipynb
 
 📁 Project Structure
 fraud-detection-project/
+
 ├─ notebooks/      # Jupyter notebooks
+
 ├─ data/           # CSV datasets
+
 ├─ dashboard/      # Power BI files
+
 └─ .gitignore
 
 
