@@ -111,6 +111,12 @@ fraud-detection-project/
 
 
 
+## Check out my Fraud detection project on GitHub
+
+[Fraud detection in financial transactions](https://github.com/CelesNeba/Fraud-detection-in-financial-transactions)
+
+
+
 
 
 
