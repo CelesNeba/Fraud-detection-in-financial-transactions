@@ -124,8 +124,7 @@ Below is a screenshot of the main project dashboard, providing a visual overview
 
 ![Project Dashboard](ML%20fraud%20dashboard.PNG)
 
-**Note:** This is a static representation of the dashboard. For a fully interactive experience and detailed exploration of the data, please refer to the project dashboard located in the [project dashboard folder](link-to-your-actual-dashboard-folder).
-
+**Note:** This is a static representation of the dashboard. For a fully interactive experience and detailed exploration of the data, please refer to the project dashboard located in the [project dashboard folder](.).
 
 
 
