@@ -118,6 +118,16 @@ fraud-detection-project/
 
 
 
+## Project Dashboard
+
+Below is a screenshot of the main project dashboard, providing a visual overview of key metrics and insights related to fraud detection in financial transactions.
+
+![Project Dashboard](ML%20fraud%20dashboard.PNG)
+
+**Note:** This is a static representation of the dashboard. For a fully interactive experience and detailed exploration of the data, please refer to the project dashboard located in the [project dashboard folder](link-to-your-actual-dashboard-folder).
+
+
+
 
 
 
